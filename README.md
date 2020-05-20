@@ -1,8 +1,9 @@
 # QPSK-modulation-and-demodulation
 This is Matlab implementation of communication through QPSK(Quadrature  Phase Shift Keying) signals which include the modulation and demodulation of it, and make it more realistic we have added white Gaussian noise into it.
 
-- If you have communcation installed in the matlab then use: modulation_demodulation_QPSK.m 
-- else use this one: modulation_demodulation_QPSK_without_communication_pack.m
+- If you have **communcation pack** installed in the **matlab** then use: **modulation_demodulation_QPSK.m **
+- else use this one: **modulation_demodulation_QPSK_without_communication_pack.m**
+
 ## Here is the visualzation of the input data
 We have passed a string which is randomly genrated.
 ![](final_result_of_input_data.png)
