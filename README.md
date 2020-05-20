@@ -8,3 +8,6 @@ We have passed a string which is randomly genrated.
 ## Here is the visulzation of the input signal with AWGN(white gaussian noise).
 ![](final_result_of_modulating_signal.png)
 
+## Here is the visulazation of the Recieved data.
+![](final_result_of_output_data.png)
+
