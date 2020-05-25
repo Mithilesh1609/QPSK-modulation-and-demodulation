@@ -4,9 +4,6 @@ This is Matlab implementation of communication through QPSK(Quadrature  Phase Sh
 - If you have **communcation pack** installed in the **matlab** then use: **modulation_demodulation_QPSK.m**
 - else use this one: **modulation_demodulation_QPSK_without_communication_pack.m**
 
-## Acknowledgement
-- [Prof.Ashok Ranade](https://ahduni.edu.in/seas/people/faculty/ashok-ranade) for the guidence for this project.
-- Tayab Memon [Link](https://www.researchgate.net/publication/224440315_Quadrature_Phase_Shift_Keying_modulator_demodulator_for_Wireless_Modem) for reaserch paper which we used as reference.
 
 ## Here is the visualization of the input data
 We have passed a string which is randomly genrated.
@@ -22,3 +19,7 @@ We have passed a string which is randomly genrated.
 ## Here is the visualization of the Recieved data.
 ![](final_result_of_output_data.png)
 
+
+## Acknowledgement
+- [Prof.Ashok Ranade](https://ahduni.edu.in/seas/people/faculty/ashok-ranade) for the guidence for this project.
+- [Tayab Memon](https://www.researchgate.net/publication/224440315_Quadrature_Phase_Shift_Keying_modulator_demodulator_for_Wireless_Modem) for reaserch paper which we used as reference.
