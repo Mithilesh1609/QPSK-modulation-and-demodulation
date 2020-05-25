@@ -9,11 +9,11 @@ This is Matlab implementation of communication through QPSK(Quadrature  Phase Sh
 We have passed a string which is randomly genrated.
 ![](final_result_of_input_data.png)
 
-## Here is the visualization of the input signal with AWGN(white gaussian noise).
+## Here is the visualization of the modulating signal contaning AWGN(white gaussian noise).
 ![](final_result_of_modulating_signal.png)
 
 
-## Here is the visualization of the modulating signal with different kind of noise.
+## Here is the visualization of the modulating signal contaning different kind of noise.
 ![](wave_form_of_modulating_signal_with_theoritical_gaussian_noise.png)
 
 ## Here is the visualization of the Recieved data.
